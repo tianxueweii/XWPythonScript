@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 #-*- coding:utf8 -*-
 
-"""zbccpaper-iOS auto build   ps:only support workspace build!!!"""
+"""iOS auto build   ps:only support workspace build!!!"""
 
 import os
 import time
