@@ -18,13 +18,13 @@ ARCHIVE_PATH = './Build/archive.xcarchive'
 EXPORT_PATH = './Build'
 
 PGYER_UPLOAD_URL = 'https://www.pgyer.com/apiv2/app/upload'
-PGYER_API_KEY = '414243e3c6404cc3772c904bfb7a8672'
+PGYER_API_KEY = ''
 PGYER_DOWNLOAD_BASE_URL = 'http://www.pgyer.com'
 
-SMTP_SERVICE = 'smtp.8531.cn'
-SMTP_SENDER_EMAIL = 'txw@8531.cn'
-SMTP_SENDER_PASSWORD = '85311995txw'
-SMTP_RECEIVER_EMAIL = ['txw@8531.cn','chenqing@8531.cn','lizhi2@8531.cn']
+SMTP_SERVICE = ''
+SMTP_SENDER_EMAIL = ''
+SMTP_SENDER_PASSWORD = ''
+SMTP_RECEIVER_EMAIL = []
 
 ##### ##### ##### 系统 ##### ##### ##### 
 
