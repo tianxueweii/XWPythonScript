@@ -1,2 +1,2 @@
-# XWScriptKit
-Script kit with python
+# XWPythonScript
+Script tool with python
